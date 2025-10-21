@@ -1,0 +1,9 @@
+{
+	"name": "dafaspotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "141ccc73-afb6-4ab2-99c6-b1451aa9d82f",
+		"tenantId": "e273ef12-624a-4ec3-952d-731c6a8a1108"
+	}
+}
